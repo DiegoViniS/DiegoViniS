@@ -44,3 +44,6 @@ Atualmente focado em **JavaScript**, **Python** , **desenvolvimento de jogos** e
 ⭐ **Se curtir algum projeto, deixe uma estrela!**  
 Cada estrela ajuda a fortalecer meu portfólio e minha jornada como desenvolvedor 🚀
 
+
+![](https://tenor.com/pt-BR/view/ai-grok-agent-artificial-intelligence-computer-gif-9607861011889765197)
+
