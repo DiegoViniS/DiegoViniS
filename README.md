@@ -23,13 +23,6 @@ Atualmente focado em **JavaScript**, **Python** , **desenvolvimento de jogos** e
 - **Game Dev:** Roblox Studio  
 - **Outros:** Git, VS Code, Excel, OBS Studio  
 
----
-
-## 📂 Projetos em Destaque
-
-- 🎮 *FazendaViva*: jogo estilo fazenda feito na Godot  
-- ⚔️ *Anime Battle Project*: protótipo de RPG browser com tema anime  
-- 📈 *Controle Financeiro Pessoal*: automação simples em Python e planilha Excel  
 
 ---
 
