@@ -35,15 +35,9 @@ Atualmente focado em **JavaScript**, **Python** , **desenvolvimento de jogos** e
 
 ## 📫 Contato
 
-- 💼 GitHub: [@KaiM1K](https://github.com/KaiM1K)  
+- 💼 GitHub: [@DiegoViniS](https://github.com/KaiM1K)  
 - 🎥 YouTube / Kick: *KaiM1K*  
 - ✉️ Email: *(diegovinicius4d@hotmail.com)*
 
 ---
-
-⭐ **Se curtir algum projeto, deixe uma estrela!**  
-Cada estrela ajuda a fortalecer meu portfólio e minha jornada como desenvolvedor 🚀
-
-
 ![](https://tenor.com/pt-BR/view/ai-grok-agent-artificial-intelligence-computer-gif-9607861011889765197)
-
