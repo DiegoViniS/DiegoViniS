@@ -33,4 +33,4 @@ Atualmente focado em **JavaScript**, **Python** , **desenvolvimento de jogos** e
 - ✉️ Email: *(diegovinicius4d@hotmail.com)*
 
 ---
-![]([https://tenor.com/pt-BR/view/ai-grok-agent-artificial-intelligence-computer-gif-9607861011889765197](https://media1.tenor.com/m/FcfLmTT2poIAAAAC/technologia-tecnologia.gif))
+![](https://media1.tenor.com/m/FcfLmTT2poIAAAAC/technologia-tecnologia.gif)
