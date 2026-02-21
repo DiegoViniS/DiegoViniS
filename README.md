@@ -19,7 +19,7 @@ Atualmente focado em **JavaScript**, **Python** , **desenvolvimento de jogos** e
 > Algumas linguagens e ferramentas que uso com frequência:
 
 - **Linguagens:** JavaScript, Python, GDScript  
-- **Front-end:** HTML5, CSS3  
+- **Front-end:** HTML5, C#  
 - **Game Dev:** Roblox Studio  
 - **Outros:** Git, VS Code, Excel, OBS Studio  
 
